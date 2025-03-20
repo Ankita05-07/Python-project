@@ -1,6 +1,4 @@
 import os
-
-# File to store tasks
 TASK_FILE = "tasks.txt"
 
 def load_tasks():
